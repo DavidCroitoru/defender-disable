@@ -32,7 +32,7 @@ Disables real-time protection, behavior monitoring, and SpyNet reporting.
 
 ## Requirements
 
-- Windows 10/11
+- Windows 10/11 + LTSC - Tested
 - PowerShell 5.0+
 - Administrator privileges (handled automatically)
 

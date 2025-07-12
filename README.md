@@ -38,7 +38,7 @@ Disables real-time protection, behavior monitoring, and SpyNet reporting.
 
 ## Important Notes
 
-⚠️ **For testing/development only** - Disabling antivirus reduces system security  
+⚠️ **For testing/development only** - Disabling antivirus reduces  security  
 ⚠️ **Restart recommended** after changes  
 ⚠️ **Use undo function** to cleanly restore settings  
 
@@ -48,7 +48,3 @@ If execution policy blocks the script:
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
 ```
-
-## Disclaimer
-
-Educational/testing purposes only. Use responsibly and restore settings when done.
